@@ -1,0 +1,24 @@
+Tutorial
+________
+
+Create string
+
+Exercise 
+_________
+
+The purpose is to create a string that states "Hello DigitalCraft!"
+
+Tutorial Code
+_________
+
+(Hello DigitalCrafts!)
+
+Expected Output
+__________
+
+myString is equal to "Hello DigitalCrafts!"
+
+Solution
+________
+
+Hello DigitalCrafts!
